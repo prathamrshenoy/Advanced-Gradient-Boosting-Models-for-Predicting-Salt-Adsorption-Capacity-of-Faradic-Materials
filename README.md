@@ -1,4 +1,4 @@
-# Advanced Gradient Boosting Models for Predicting Salt Adsorption Capacity
+# Comparative Evaluation of Advanced Gradient Boosting Models for Predicting Salt Adsorption Capacity
 
 A machine learning study evaluating advanced gradient boosting models for predicting the salt adsorption capacity (SAC) of faradic materials used in capacitive deionization (CDI).
 
